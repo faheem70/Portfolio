@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, Phone, Code, Briefcase, GraduationCap, Award, ChevronDown, Menu, X, Sparkles, Rocket, Zap, Terminal, Database, Server } from 'lucide-react';
 import prof from '../assets/prof.jpg';
 
